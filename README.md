@@ -23,7 +23,7 @@ project delivered by a real team.
 - Analyzed simulated sprint metrics.
 - Created a bug report and technical glossary.
 - Prepared AI-assisted requirements review.
-- Prepared AI-assisted status summary/ 
+- Prepared AI-assisted status summary.
 
 ## Tools
 
