@@ -22,10 +22,12 @@ project delivered by a real team.
 - Prepared a Sprint Status Report.
 - Analyzed simulated sprint metrics.
 - Created a bug report and technical glossary.
+- Prepared AI-assisted requirements review.
+- Prepared AI-assisted status summary/ 
 
 ## Tools
 
-Jira, Miro, Microsoft Word, Microsoft Excel.
+Jira, Miro, Microsoft Word, Microsoft Excel, Perplexity AI.
 
 ## Project materials
 
